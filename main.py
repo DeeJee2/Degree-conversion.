@@ -1,4 +1,5 @@
 # main.py
+# Добавь своё
 print("1.Celsius to Fahrenheit\n2.Fahrenheit to Celsius\n3.Exit")
 choice = int(input("Enter your choice:"))
 if choice == 1:
