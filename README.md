@@ -1,1 +1,1 @@
-# Degree-conversion.
+# Degree-conversion
